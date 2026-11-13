@@ -1,19 +1,19 @@
+
 # Karim Haidari
+
+<p align="center">
+  <img src="./file_000000000b948212980dd4ddf5b6605d.png" width="100%" alt="Karim Haidari Banner">
+</p>
+
+## 👋 About Me
 
 Welcome to my GitHub profile!
 
 I'm interested in technology, programming, Python, and ethical cybersecurity.
 
-I'm a beginner developer who is learning step by step and building practical projects.
+I'm a beginner developer learning step by step and building practical projects.
 
-Interests
-
-- Technology
-- Programming
-- Python
-- Ethical Cybersecurity
-
-Skills
+## 💻 Skills
 
 - Basic Python
 - GitHub
@@ -21,35 +21,21 @@ Skills
 - Canva
 - Programming Fundamentals
 
-Currently Learning
+## 📚 Currently Learning
 
 - Python
 - JavaScript
 - HTML & CSS
 - Bash
 - Git
-- Linux
-- Kali Linux
-- Ubuntu
+- Linux and Linux Distributions
 - Cybersecurity Fundamentals
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- OWASP ZAP
-- Visual Studio Code
-- Jupyter Notebook
-- Figma
+- Network Security
+- Ethical Hacking
 
-Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- Python
-- GitHub
-- Termux
-- Canva
 - Visual Studio Code
-- Git
-- Linux
 - Kali Linux
 - Ubuntu
 - Wireshark
@@ -60,11 +46,14 @@ Tools & Technologies
 - Jupyter Notebook
 - Figma
 
-My Goals
+## 🎯 My Goals
 
 - Improve my programming skills.
-- Learn Python through practical projects.
-- Study ethical cybersecurity.
-- Build useful technology projects.
+- Build practical Python projects.
+- Develop my cybersecurity knowledge.
+- Learn ethical hacking responsibly.
+- Create useful technology projects.
+
+---
 
 I'm always learning, improving, and exploring new technologies.
